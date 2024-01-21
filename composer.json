@@ -1,0 +1,20 @@
+{
+    "name": "mahfuz/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Mahfuz\\PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahfuzkhan12",
+            "email": "mahfuzalamkhan85@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
